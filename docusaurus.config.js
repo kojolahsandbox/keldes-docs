@@ -13,7 +13,7 @@ const config = {
   title: "Keldes CMS",
   tagline:
     "Aplikasi ini membantu mengelola data penduduk, pelayanan administrasi, dan informasi penting lainnya di kelurahan dan desa, sehingga pelayanan kepada masyarakat menjadi lebih mudah dan efisien.",
-  favicon: "img/favicon.ico",
+  favicon: "https://www.kojolah.com/favicon.ico",
 
   // Set the production url of your site here
   url: "https://docs.nagori.id",
@@ -75,7 +75,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image:
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkCE_6sEawK2U5UBBsr1gSL_7GQ872GGjQPnOqo8_QLm2QcrMd_KTPpHaPEYrKvFTpq5O7i9KnqoOrYJtPZ7pKXLePB8b8nS_F989dKncgzDHkcmIqr1oU5mVbGamUzTM4x8NxvDN7-8BUeDf7tiH5IyVzx5tEgFqTPwzJHyjnQSBmPQ2XBKbd5lTf8ic/s500/Kojolah%20Sandbox%20Logo%20Baru.png",
       navbar: {
         title: "Docs",
         logo: {

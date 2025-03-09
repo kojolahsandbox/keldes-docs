@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="Aplikasi ini membantu mengelola data penduduk, pelayanan administrasi, dan informasi penting lainnya di kelurahan dan desa, sehingga pelayanan kepada masyarakat menjadi lebih mudah dan efisien."
     >
       <HomepageHeader />
       <main>
