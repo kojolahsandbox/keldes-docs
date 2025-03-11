@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 📖 Panduan Penggunaan Keldes CMS
+# 📖 Panduan Penggunaan
 
 Selamat datang di dokumentasi **Keldes CMS**, sistem manajemen desa & kelurahan. Dokumentasi ini berisi:
 
@@ -14,3 +14,9 @@ Selamat datang di dokumentasi **Keldes CMS**, sistem manajemen desa & kelurahan.
 
 - 👉 [Login](./login)
 - 👉 [Dashboard](./dashboard)
+
+## 📖 Manual Book Keldes CMS
+
+[Download PDF](https://docs.nagori.id/file/Manual_Book_Keldes.pdf)
+
+<iframe src="https://docs.nagori.id/file/Manual_Book_Keldes.pdf" width="100%" height="600px"></iframe>

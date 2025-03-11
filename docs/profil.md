@@ -15,7 +15,7 @@
 
 ![Halaman Profil Desa](/img/nagori/image269.png)
 
-### **Catatan**
+### **📌 Catatan**
 
 1. Jika **Sarana dan Prasarana** Desa dan **Misi Desa** lebih dari satu, maka dipisahkan dengan **tanda koma ","**
 2. Pada Kolom Map diambil embed dari halaman 👉 [Google Maps](https://www.google.com/maps)

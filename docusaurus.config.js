@@ -137,7 +137,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Powered by Kojolah Sandbox. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Powered by Kojolah Sandbox.`,
       },
       prism: {
         theme: prismThemes.github,
