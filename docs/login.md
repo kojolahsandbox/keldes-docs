@@ -6,4 +6,4 @@
 4. Klik tombol **Masuk**.
 5. Jika berhasil, Anda akan diarahkan ke dashboard utama.
 
-<!-- ![Halaman Login](../static/img/login.png) -->
+![Halaman Login](/img/nagori/image005.png)
